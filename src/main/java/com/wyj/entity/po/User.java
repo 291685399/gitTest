@@ -14,10 +14,6 @@ public class User implements Serializable {
 
     public User() {
     }
-    
-    public User(String id) {
-        this.id = id;
-    }
 
     public User(String username) {
         this.username = username;
