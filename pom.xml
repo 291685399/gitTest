@@ -15,7 +15,7 @@
     <description>springboot整合mybatis实现增删改查</description>
 
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>1.8</java.version>ddgg
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
